@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E756B4A2-B76D-4B52-B2DE-77DDB5AAF19B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreNetCondoleApp1 Status">
+    <Files>
+      <File FileName="CoreNetCondoleApp1/Program.cs" Line="9" Column="30" />
+      <File FileName="CoreNetCondoleApp1 Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CoreNetCondoleApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

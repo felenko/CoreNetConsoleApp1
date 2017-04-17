@@ -1,0 +1,10 @@
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/bin/Debug/netcoreapp1.1/CoreNetCondoleApp1.deps.json
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/bin/Debug/netcoreapp1.1/CoreNetCondoleApp1.runtimeconfig.json
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/bin/Debug/netcoreapp1.1/CoreNetCondoleApp1.runtimeconfig.dev.json
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/bin/Debug/netcoreapp1.1/CoreNetCondoleApp1.dll
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/bin/Debug/netcoreapp1.1/CoreNetCondoleApp1.pdb
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/obj/Debug/netcoreapp1.1/CoreNetCondoleApp1.csprojResolveAssemblyReference.cache
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/obj/Debug/netcoreapp1.1/CoreNetCondoleApp1.csproj.CoreCompileInputs.cache
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/obj/Debug/netcoreapp1.1/CoreNetCondoleApp1.AssemblyInfo.cs
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/obj/Debug/netcoreapp1.1/CoreNetCondoleApp1.dll
+/Users/krystynafelenko/CoreNetConsoleApp1/CoreNetCondoleApp1/CoreNetCondoleApp1/obj/Debug/netcoreapp1.1/CoreNetCondoleApp1.pdb
