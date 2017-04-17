@@ -14,7 +14,7 @@ namespace CoreNetCondoleApp1
 	{
 		public void Job()
 		{
-			Console.WriteLine("Hello cross platform world!");
+			Console.WriteLine("Hello Cross platform world!");
 		}
 
 	}
